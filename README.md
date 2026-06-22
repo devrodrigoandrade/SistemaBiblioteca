@@ -192,7 +192,7 @@ GitHub:
 https://github.com/devrodrigoandrade
 
 LinkedIn:
-(Adicionar perfil)
+https://linkedin.com/in/rodrigoandrade-dev
 
 ---
 
